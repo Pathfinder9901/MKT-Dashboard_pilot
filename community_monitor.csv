@@ -1,1 +1,2 @@
 date,keyword,source,url,comment_count,positive,neutral,negative,summary
+2026-09-27,,,,0,0,0,0,다음/네이버 뉴스 도메인이 이 실행 환경의 네트워크 정책상 접근 차단되어 기사 본문 및 댓글 수집 불가; 데이터 없음(환경 네트워크 설정에서 news.naver.com/daum.net 도메인 허용 필요)
